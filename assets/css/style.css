@@ -1,0 +1,63 @@
+body{
+  font-family: 'Roboto Condensed', sans-serif;
+  color: black;
+
+
+}
+.photo{
+  border-radius:50em;
+  border: 5px;
+}
+
+#infos{
+  color : white !important;
+}
+#textw{
+  color: #520C36;
+}
+#textw1{
+  color: #520C36;
+}
+#textw2{
+  color: #520C36;
+}
+#textw3{
+  color: #520C36;
+}
+#pro{
+  color: black;
+}
+#infos{
+  background-color: teal !important;
+}
+#infos2{
+  background-color: #b39d8f !important;
+}
+#footer{
+  background-color: #b39d8f !important;
+}
+#moi{
+  font-size: 1.6rem;
+  color: #B39D8F;
+}
+#pro1{
+color: teal;
+}
+#d1{
+  color: #520C36;
+  }
+  #d2{
+    color: #520C36;
+    }
+    #d3{
+      color: #520C36;
+      }
+      #d4{
+        color: #520C36;
+        }
+        #d5{
+          color: #520C36;
+          }
+          #d6{
+            color: #520C36;
+            }
